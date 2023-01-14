@@ -6,4 +6,4 @@ The purpose of this project is to provide more readable visualizations to comple
 
 For how the data was extracted, cleaned, and pre-processed check out the [Extraction](https://github.com/joshrabovsky/WEC-2023/tree/master/extraction) folder.
 
-For the visualization of the data (including a pretty cool dynamic CO2 year planning tool), check out the [Visualization](https://github.com/joshrabovsky/WEC-2023/tree/master/visualization) folder.
+For the visualization of the data (including a pretty cool dynamic CO2 year planning tool), check out [Visualizations](https://github.com/joshrabovsky/WEC-2023/blob/master/visualization/visualizations.ipynb).
