@@ -1,0 +1,372 @@
+========== Request ==========
+Address: 178373
+Red Meat: 100 pounds
+Controller: LocationController
+Grains: 2 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/software
+Dairy: 200 pounds
+Cellphone: 55 hours
+TV: 43 hours
+Computer: 130 hours
+New Year Resolution: 5%
+
+========== Request ==========
+Address: 156354
+Red Meat: 89 pounds
+Controller: Controlmite
+Grains: 167 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/software
+Dairy: 42 pounds
+Cellphone: 42 hours
+TV: 75 hours
+Computer: 88 hours
+New Year Resolution: 15%
+
+========== Response  ==========
+Username:         Spencer
+Controller:       ControlPublic
+Car:	          84 hours
+Action:           Get
+Walking:          65 hours
+Public Transport: 78 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/electrical
+Items/Total:      3/5
+
+========== Request ==========
+Address: 919323
+Red Meat: 26 pounds
+Controller: ControlPublic
+Grains: 78 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/electrical
+Dairy: 78 pounds
+Cellphone: 100 hours
+TV: 50 hours
+Computer: 75 hours
+New Year Resolution: 9%
+
+========== Request ==========
+Address: 983575
+Red Meat: 35 pounds
+Controller: Controlz
+Grains: 78 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/mechanical
+Dairy: 64 pounds
+Cellphone: 78 hours
+TV: 50 hours 
+Computer: 5 hours
+New Year Resolution: 4%
+
+========== Response  ==========
+Username:         Griffin
+Controller:       Controlmite
+Car:	          75 hours
+Action:           Get
+Walking:          68 hours
+Public Transport: 43 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/software
+Items/Total:      3/1
+
+========== Request ==========
+Address: 919325
+Red Meat: 55 pounds
+Controller: Control
+Grains: 44 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/mechanical
+Dairy: 88 pounds
+Cellphone: 45 hours
+TV: 68 hours
+Computer: 99 hours
+New Year Resolution: 0%
+
+========== Response  ==========
+Username:         Jessica
+Controller:       LocationController
+Car:	          78 hours
+Action:           Get
+Walking:          101 hours
+Public Transport: 22 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/mechanical
+Items/Total:      3/3
+
+========== Response  ==========
+Username:         Juan
+Controller:       Cont
+Car:	          150 hours
+Action:           Get
+Walking:          30 hours
+Public Transport: 150 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/mechanical
+Items/Total:      1/2
+
+========== Request ==========
+Address: 919324
+Red Meat: 66 pounds
+Controller: ControlPub
+Grains: 100 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/electrical
+Dairy: 75 pounds
+Cellphone: 75 hours
+TV: 75 hours
+Computer: 75 hours
+New Year Resolution: 15%
+
+========== Request ==========
+Address: 1565535
+Red Meat: 78 pounds
+Controller: Controlling
+Grains: 36 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/chemical
+Dairy: 29 pounds
+Cellphone: 44 hours
+TV: 70 hours
+Computer: 76 hours
+New Year Resolution: 11%
+ 
+========== Request ==========
+Address: 234567
+Red Meat: 0 pounds
+Controller: LocationsController
+Grains: 5 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/software
+Dairy: 20 pounds
+Cellphone: 50 hours
+TV: 50 hours
+Computer: 50 hours 
+New Year Resolution: 0%
+
+========== Request ==========
+Address: 737234
+Red Meat: 300 pounds
+Controller: Cont
+Grains: 0 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/mechanical
+Dairy: 0 pounds
+Cellphone: 76 hours 
+TV: 55 hours 
+Computer: 34 hours
+New Year Resolution: 9%
+
+========== Response  ==========
+Username:         Anthony
+Controller:       ControlPub
+Car:	          0 hours
+Action:           Get
+Walking:          150 hours
+Public Transport: 50 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/civil
+Items/Total:      3/5
+
+========== Request ==========
+Address: 919323
+Red Meat: 150 pounds
+Controller: ControlPub
+Grains: 53 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/civil
+Dairy: 76 pounds
+Cellphone: 44 hours
+TV: 78 hours
+Computer: 55 hours
+New Year Resolution: 7%
+
+========== Response  ==========
+Username:         Cameron
+Controller:       ControlPub
+Car:	          44 hours
+Action:           Get
+Walking:          111 hours
+Public Transport: 84 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/electrical
+Items/Total:      3/5
+
+========== Response  ==========
+Username:         Prey
+Controller:       LocationsController
+Car:	          60 hours
+Action:           Get
+Walking:          85 hours
+Public Transport: 0 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/software
+Items/Total:      1/1
+
+========== Response  ==========
+Username:         Annie
+Controller:       Controlz
+Car:	          20 hours
+Action:           Get
+Walking:          71 hours
+Public Transport: 34 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/mechanical
+Items/Total:      3/1
+
+========== Request ==========
+Address: 919323
+Red Meat: 60 pounds
+Controller: Control
+Grains: 100 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/mechanical
+Dairy: 40 pounds
+Cellphone: 95 hours
+TV: 55 hours
+Computer: 65 hours
+New Year Resolution: 16%
+
+========== Response  ==========
+Username:         Alexis
+Controller:       Controlling
+Car:	          12 hours
+Action:           Get
+Walking:          200 hours
+Public Transport: 0 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/chemical
+Items/Total:      3/1
+
+========== Request ==========
+Address: 4684352
+Red Meat: 62 pounds
+Controller: Controlmite
+Grains: 75 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/mechanical
+Dairy: 63 pounds
+Cellphone: 68 hours
+TV: 1 hour
+Computer: 99 hours
+New Year Resolution: 5%
+
+========== Response  ==========
+Username:         Aaron
+Controller:       Control
+Car:	          30 hours
+Action:           Get
+Walking:          100 hours
+Public Transport: 20 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/mechanical
+Items/Total:      3/1
+
+========== Response  ==========
+Username:         Sammy
+Controller:       LocationController
+Car:	          150 hours
+Action:           Get
+Walking:          3 hours
+Public Transport: 10 hours
+Status:           4
+Endpoint:         (OWL) https://uwo.ca/edge/software
+Items/Total:      2/1
+
+========== Response  ==========
+Username:         Izzy
+Controller:       Controlmite
+Car:	          8 hours
+Action:           Get
+Walking:          68 hours
+Public Transport: 142 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/mechanical
+Items/Total:      3/1
+
+========== Request ==========
+Address: 4563158
+Red Meat: 59 pounds
+Controller: Controlnt
+Grains: 43 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/mechanical
+Dairy: 86 pounds
+Cellphone: 124 hours
+TV: 66 hours
+Computer: 2 hours
+New Year Resolution: 5%
+
+========== Request ==========
+Address: 996563
+Red Meat: 63 pounds
+Controller: Controller
+Grains: 107 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/electrical
+Dairy: 100 pounds
+Cellphone: 40 hours
+TV: 90 hours
+Computer: 46 hours
+New Year Resolution: 5%
+
+========== Response  ==========
+Username:         Matt
+Controller:       Controller
+Car:	          50 hours
+Action:           Get
+Walking:          10 hours
+Public Transport: 50 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/electrical
+Items/Total:      3/1
+
+========== Response  ==========
+Username:         Amanda
+Controller:       Controlnt
+Car:	          38 hours
+Action:           Get
+Walking:          74 hours
+Public Transport: 53 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/mechanical
+Items/Total:      3/2
+
+========== Request ==========
+Address: 919325
+Red Meat: 55 pounds
+Controller: LocationController
+Grains: 44 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/mechanical
+Dairy: 88 pounds
+Cellphone: 0 hours
+TV: 100 hours
+Computer: 50 hours
+New Year Resolution: 6%
+
+========== Response  ==========
+Username:         Mark
+Controller:       Controlntt
+Car:	          55 hours
+Action:           Get
+Walking:          76 hours
+Public Transport: 53 hours
+Status:           0
+Endpoint:         (OWL) https://uwo.ca/edge/software
+Items/Total:      3/2
+
+========== Request ==========
+Address: 919300
+Red Meat: 55 pounds
+Controller: Controlntt
+Grains: 44 pounds
+Action: Get
+Endpoint: https://uwo.ca/edge/software
+Dairy: 88 pounds
+Cellphone: 30 hours
+TV: 40 hours
+Computer: 50 hours
+New Year Resolution: 20%
