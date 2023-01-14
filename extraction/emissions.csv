@@ -3,6 +3,7 @@ address,controller,action,endpoint,new_year_resolution,discipline,username,statu
 156354,Controlmite,Get,(OWL) https://uwo.ca/edge/software,15%,software,Griffin,0,3/1,322.957504,89,280.2744968,167,120.0204432,42,151.20000000000002,42,510.0,75.0,369.6,88,487.5,75,0,68,184.9,43,
 919323,ControlPublic,Get,https://uwo.ca/edge/electrical,9%,electrical,Spencer,0,3/5,94.347136,26,130.9066512,78,222.89510879999997,78,360.0,100,340.0,50.0,315.0,75,546.0,84,0,65,335.4,78,
 983575,Controlz,Get,(OWL) https://uwo.ca/edge/mechanical,4%,mechanical,Annie,0,3/1,127.00576,35,130.9066512,78,182.8882944,64,280.8,78,340.0,50.0,21.0,5,130.0,20,0,71,146.2,34,
+919325,Control,Get,(OWL) https://uwo.ca/edge/mechanical,0%,mechanical,Aaron,0,3/1,199.58048,55,73.8447776,44,251.47140479999996,88,162.0,45,462.4,68.0,415.8,99,195.0,30,0,100,86.0,20,
 919325,LocationController,Get,https://uwo.ca/edge/mechanical,6%,mechanical,Jessica,0,3/3,199.58048,55,73.8447776,44,251.47140479999996,88,0.0,0,680.0,100.0,210.0,50,507.0,78,0,101,94.6,22,
 737234,Cont,Get,https://uwo.ca/edge/mechanical,9%,mechanical,Juan,0,1/2,1088.6208,300,0.0,0,0.0,0,273.6,76,374.0,55.0,142.8,34,975.0,150,0,30,645.0,150,
 919324,ControlPub,Get,(OWL) https://uwo.ca/edge/electrical,15%,electrical,Cameron,0,3/5,239.496576,66,167.82904000000002,100,214.32222,75,270.0,75,510.0,75.0,315.0,75,286.0,44,0,111,361.2,84,
