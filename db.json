@@ -1,0 +1,21 @@
+[
+    {
+        "Address": 919300,
+        "Red Meat": 55,
+        "Grains": 44,
+        "Action": "Get",
+        "Endpoint": "https://uwo.ca/edge/software",
+        "Dairy": 88,
+        "Cellphone": 30,
+        "TV": 40,
+        "Computer": 50,
+        "New Year Resolution": 20,
+        "Username": "Mark",
+        "Controller": "Controlntt",
+        "Car": 55,
+        "Walking": 76,
+        "Public Transport": 53,
+        "Status": 0,
+        "Items/Total": "3/2"
+    }
+]
